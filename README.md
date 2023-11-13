@@ -6,7 +6,7 @@
 
 ### Code of Conduct
 
-By contributing to Hush Line, you agree to our [Code of Conduct](https://github.com/scidsg/business-resources/blob/main/Policies%20%26%20Procedures/Code%20of%20Conduct.md).
+By contributing to this project, you agree to our [Code of Conduct](https://github.com/scidsg/business-resources/blob/main/Policies%20%26%20Procedures/Code%20of%20Conduct.md).
 
 ### Reporting Bugs
 
